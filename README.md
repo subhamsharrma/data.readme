@@ -7,7 +7,7 @@
 I specialize in full-stack development with **NestJS** and **ExpressJS**, using **TypeScript** for type safety. I have experience with modern web technologies and tools.
 
 - 📍 I'm based in **Delhi**
-- 🌐 See my portfolio at [pankaj-k.tech](https:)
+- 🌐 See my portfolio at 
 - 📬 You can contact me at [subhamsharrma@gmail.com]
 - 🤝 I'm looking to collaborate on Web Apps,
 
